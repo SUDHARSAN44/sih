@@ -1,0 +1,41 @@
+body{
+	margin: 0 auto;
+	background: radial-gradient(circle,#3494E6 10%, #EC6EAD 70%);
+}
+
+
+.container {
+    display: flex;
+    margin: auto;
+    width: 70%;
+    border: 3px solid green;
+    padding: 5%;
+    align-items: unset;
+    background-image: #EC6EAD;
+    justify-content: center;
+
+  }
+  h2{
+    margin: 30px;
+  }
+
+  .centre{
+      margin: auto;
+      width: 50%;
+  }
+
+  #name,#pwd{
+
+    margin: auto;
+    width: 280px;
+
+  }
+
+  #f{
+      display: flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+  }
+
+  
